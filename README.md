@@ -26,3 +26,18 @@
 - Untick the **Enabled** box
 - Press **OK**
 - Right click on the rule and add a keybind if you wish
+
+# Visual Changes
+
+- Active/Disabled Limit is now RTA/API
+- Help tab now displays my personal discord link
+- Help tab now says "Don't Click Me" on the update tab
+- Help tab now says "Who made This?" on the About and Registration tab
+- About and Registration now says "Made By Rikka <3" at the top
+- Rule list now says "Add Limit" at the bottom instead of "Add rule"
+- When creating a filter the editor now says "Application is - Destiny" followed by "Remote Port In Range"
+
+# Security Changes?
+
+- Changed 581 instances of "Netlimiter", "Locktime Software", "nlsvc", "NL4", and "NL5" (*Keep in mind there are still instances of these within the program itself*)
+- Removed "Netlimiter.com" hooks to reject updates (*Updates will not longer open a tab causing a "Plum"*)
