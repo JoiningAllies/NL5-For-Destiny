@@ -1,3 +1,9 @@
+
+# This was uploaded as a response to the 4/17/24 ban wave that hit countless people for using different tweaks, base limiter versions, and overlays.
+I plan on making changes here and there to make it more safe with less detection vectors but there is only so much I can do until I finish my personalized Limiter that is in the works.
+I will be uploading that free of charge when it is completed but there are no planned dates on when it will be.
+
+
 # How To Setup Raw Limiter
 
 - Click on Code and Download ZIP from the dropdown menu
