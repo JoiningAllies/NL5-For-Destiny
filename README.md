@@ -36,7 +36,10 @@ I will be uploading that free of charge when it is completed but there are no pl
 # Visual Changes
 
 - Active/Disabled Limit is now RTA/API
+
 ![APIRTA](https://i.ibb.co/Lkqhhc8/image-2024-05-08-091349138.png)
+
+
 - Help tab now displays my personal discord link
 - Help tab now says "Don't Click Me" on the update tab
 - Help tab now says "Who made This?" on the About and Registration tab
