@@ -5,7 +5,7 @@ I will be uploading that free of charge when it is completed but there are no pl
 
 ## [Virus Total](https://www.virustotal.com/gui/file/697d5496e9275525cc1df9bfde15b845fa62441d23995118cc69bf4b1ddcb0b0/detection)
 
-# How To Setup Raw Limiter ![rikka](https://i.ibb.co/hKNYXBw/image-2024-05-08-095041621.png)
+# How To Setup Raw Limiter ![rikka](https://i.ibb.co/JkHBp0y/yiy587u6-r.png)
 
 - Click on Code and Download ZIP from the dropdown menu
 - Extract the files somewhere on your pc and remember where
