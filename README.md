@@ -3,6 +3,7 @@
 I plan on making changes here and there to make it more safe with less detection vectors but there is only so much I can do until I finish my personalized Limiter that is in the works.
 I will be uploading that free of charge when it is completed but there are no planned dates on when it will be.
 
+## [Virus Total](https://www.virustotal.com/gui/file/697d5496e9275525cc1df9bfde15b845fa62441d23995118cc69bf4b1ddcb0b0/detection)
 
 # How To Setup Raw Limiter
 
