@@ -53,5 +53,6 @@ I will be uploading that free of charge when it is completed but there are no pl
 
 # Security Changes?
 
-- Changed 612 instances of "Netlimiter", "Locktime Software", "nlsvc", "NL4", and "NL5" (*Keep in mind there are still instances of these within the program itself that if tampered with cause the program to not work*)
+- Changed 658 instances of "Netlimiter", "Locktime Software", "nlsvc", "NL4", and "NL5" (*Keep in mind there are still instances of these within the program itself that if tampered with cause the program to not work*)
 - Removed "Netlimiter.com" hooks to reject updates (*Updates will not longer open a tab causing a "Plum" unless certain tabs are pressed manually*)
+- Changed assmebly to no longer include "Netlimiter" and names associated with it.
