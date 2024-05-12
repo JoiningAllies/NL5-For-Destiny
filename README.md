@@ -3,6 +3,8 @@
 I plan on making changes here and there to make it more safe with less detection vectors but there is only so much I can do until I finish my personalized Limiter that is in the works.
 I will be uploading that free of charge when it is completed but there are no planned dates on when it will be.
 
+As for safety versus other free uploads the two main ones are made by Joyeuse and Bosslawl. Both of which don't have very many strings changes. Mine may not be more secure, but if battleye ever decides to start detecting other random strings within the program that say "*Netlimiter*" or things of the sort then every limiter aside mine would get cooked. I have plans to add more and more features as they are requested but have no timeframe as to when they will be added. Cry about it I guess. But I won't be badgered to add a feature. If I am then the feature will never be added. 
+
 ## [Virus Total](https://www.virustotal.com/gui/file/79125cfd0e3bd4e5880dc16cfd144edd7c0215eb3b98563edcb7eff4400f2acf?nocache=1)
 
 # How To Setup Raw Limiter ![rikka](https://i.ibb.co/JkHBp0y/yiy587u6-r.png)
@@ -45,8 +47,10 @@ I will be uploading that free of charge when it is completed but there are no pl
 - Help tab now says "Don't Click Me" on the update tab
 - Help tab now says "Who made This?" on the About and Registration tab
 - About and Registration now says "Made By Rikka <3" at the top
-- Rule list now says "Add Limit" at the bottom instead of "Add rule"
 - When creating a filter the editor now says "Application is - Destiny" followed by "Remote Port In Range"
+- Removed the word *"List"* from rule list, filter list, etc.
+- Added under the *"Help"* tab links to this page, netlimiter bible, and my discord account
+- Made a special change within the **Theme** tab that you will have to find yourself
 
 ![remoteportinrange](https://i.ibb.co/KFmCKTs/kjhdsfg-1.png)
 
