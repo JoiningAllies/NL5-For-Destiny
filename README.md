@@ -57,7 +57,7 @@ As for safety versus other free uploads the two main ones are made by Joyeuse an
 
 # Security Changes?
 
-- Changed 662 instances of "Netlimiter", "Locktime Software", "nlsvc", "NL4", and "NL5" (*Keep in mind there are still instances of these within the program itself that if tampered with cause the program to not work*)
+- Changed 696 instances of "Netlimiter", "Locktime Software", "nlsvc", "NL4", and "NL5" (*Keep in mind there are still instances of these within the program itself that if tampered with cause the program to not work*)
 - Removed "Netlimiter.com" hooks to reject updates (*Updates will not longer open a tab causing a "Plum" unless certain tabs are pressed manually*)
 - Changed assmebly to no longer include "Netlimiter" and names associated with it.
 
