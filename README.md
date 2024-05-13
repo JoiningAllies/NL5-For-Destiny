@@ -23,4 +23,11 @@ The recommendation is to actually just make your own custom patch but if you don
 * Active/Disabled limit is now **RTA/API**
 
 ![rtaapi](https://i.ibb.co/jyLpMjP/image-2024-05-12-211945735.png)
-* asgoiahsg
+* Help tab now displays a hyperlink to GitHub, my personal Discord, and the Netlimiter Bible doc
+* Help tab now has a "*Don't Click*" button on the update checker
+* Help tab now say's "*Who Made This?*" for the about tab
+* When creating a filter the editor now says "*Application is - Destiny 2*" followed by "*Remote Port In Range*" to make it more obvious for new **api** gamers
+
+![filter](https://i.ibb.co/ySCtNhT/image-2024-05-12-212731066.png)
+* Removed the word *List* from rule list, filter list, etc.
+* Made a special change in the **theme** tab that you will have to discover on your own
