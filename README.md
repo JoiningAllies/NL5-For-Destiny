@@ -28,6 +28,6 @@ The recommendation is to actually just make your own custom patch but if you don
 * Help tab now say's "*Who Made This?*" for the about tab
 * When creating a filter the editor now says "*Application is - Destiny 2*" followed by "*Remote Port In Range*" to make it more obvious for new **api** gamers
 
-![filter](https://i.ibb.co/6NV5bQB/image-2024-05-12-212731066-1.png)
+![filter](https://i.ibb.co/bmnDY50/image-2024-05-12-212731066-2.png)
 * Removed the word *List* from rule list, filter list, etc.
 * Made a special change in the **theme** tab that you will have to discover on your own
