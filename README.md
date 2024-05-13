@@ -45,3 +45,6 @@ It is recommended you make your **own** patch. But this patch is still the safes
 - [ ] Hotkey Overlay
 - [x] No key modifiers needed
 - [ ] Setup Auto Updater
+
+> [!NOTE]
+
