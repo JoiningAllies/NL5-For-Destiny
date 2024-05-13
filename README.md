@@ -36,6 +36,14 @@ As for safety versus other free uploads the two main ones are made by Joyeuse an
 - Press **OK**
 - Right click on the rule and add a keybind if you wish
 
+# How To Update Rikka Releases
+
+- Download the latest version from Releases
+- Open Command Prompt as admin and type in **net stop nlsvc**
+- Drag and drop each file inside of **Rikkas Files** into your C:\Program Files\Locktime Software\Netlimiter File or your installation path and hit replace all with admin permissions
+- Reopen Command Prompt as admin and type in **net start nlsvc**
+- Run **Rikka.exe**
+
 # Visual Changes
 
 - Active/Disabled Limit is now RTA/API
