@@ -41,6 +41,6 @@ The recommendation is to actually just make your own custom patch but if you don
 
 # Quality Of Life
 
-[ ] Hotkey Overlay
-[x] No key modifiers needed
-[ ] Setup Auto Updater
+- [ ] Hotkey Overlay
+- [x] No key modifiers needed
+- [ ] Setup Auto Updater
