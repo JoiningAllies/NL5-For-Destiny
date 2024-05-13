@@ -31,3 +31,16 @@ The recommendation is to actually just make your own custom patch but if you don
 ![filter](https://i.ibb.co/bmnDY50/image-2024-05-12-212731066-2.png)
 * Removed the word *List* from rule list, filter list, etc.
 * Made a special change in the **theme** tab that you will have to discover on your own
+
+# Security Changes
+
+* Changed **697** Instaces of "*Netlimiter*", "*Locktime Software*", "*nlsvc*", "*NL4*", and "*NL5*" (Please keep in mind there are still insatces of these phrases in the program that if I was to change them then it will breka the raw program but I am constantly working on things)
+* Removed **78** bloat files that slow down the program
+* Changes assembly to no longer include *"Netlimiter"* and names associated with it
+* Changed all languages to no longer have the word *"Netlimiter"*
+
+# Quality Of Life
+
+[ ] Hotkey Overlay
+[x] No key modifiers needed
+[ ] Setup Auto Updater
