@@ -47,4 +47,4 @@ As of the moment <sub>5/12/24</sub> mine is the most secure public limiter due t
 - [ ] Setup Auto Updater
 
 > [!NOTE]
-
+> If you want to support me you can contact me on Discord to give verbal or financial support <3
