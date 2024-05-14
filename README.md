@@ -44,6 +44,7 @@ As of the moment `5/12/24` mine is the most secure public limiter due to the amo
 
 - [ ] Hotkey Overlay
 - [x] No key modifiers needed
+- [ ] Setup Auto Installer
 - [ ] Setup Auto Updater
 
 > [!NOTE]
