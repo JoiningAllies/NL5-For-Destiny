@@ -1,8 +1,8 @@
 # Reasoning For This Release
 
-I mainly have this publicly released due to the ban wave that hit countless limiters on <sub>4/17/24</sub> over different overlays and other limiter patches.
+I mainly have this publicly released due to the ban wave that hit countless limiters on `4/17/24` over different overlays and other limiter patches.
 
-As of the moment <sub>5/12/24</sub> mine is the most secure public limiter due to the amount of strings, values, assembly, and more that has all been changed. The most popular up till this point has been Bosslawls and Joyeuses which don't have but a few dozen changed strings.
+As of the moment `5/12/24` mine is the most secure public limiter due to the amount of strings, values, assembly, and more that has all been changed. The most popular up till this point has been Bosslawls and Joyeuses which don't have but a few dozen changed strings.
 
 > [!CAUTION]
 > It is recommended you make your **own** patch. But this patch is still the safest public limiter with 0 bans
