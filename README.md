@@ -9,7 +9,7 @@ As of the moment **5/14/24** mine is the most secure public limiter due to the a
 
 # [Virus Total](https://www.virustotal.com/gui/file/79125cfd0e3bd4e5880dc16cfd144edd7c0215eb3b98563edcb7eff4400f2acf?nocache=1)
 
-# How To Setup Rikka.exe
+# <p align="center">**How To Setup Rikka.exe**</p>
 
 * Click on [Releases](https://github.com/JoiningAllies/NL5-For-Destiny/releases) and download the version you wish to use. It is recommended to use the **latest**
 * Extract the files somewhere on your PC and remember where
