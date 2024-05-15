@@ -2,7 +2,7 @@
 
 I mainly have this publicly released due to the ban wave that hit countless limiters on **4/17/24** over different overlays and other limiter patches.
 
-As of the moment **5/14/24** mine is the most secure public limiter due to the amount of strings, values, assembly, and more that has all been changed. The most popular up till this point has been [REDACTED] and [REDACTED] which don't have but a few dozen changed strings.
+As of the moment **5/14/24** mine is the most secure public limiter due to the amount of strings, values, assembly, and more that has all been changed. The most popular up till this point has been `[REDACTED]` and `[REDACTED]` which don't have but a few dozen changed strings.
 
 > [!CAUTION]
 > It is recommended you make your **own** patch. But this patch is still the safest public limiter with 0 bans
