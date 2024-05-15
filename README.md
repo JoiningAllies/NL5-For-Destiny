@@ -49,3 +49,4 @@ As of the moment `5/12/24` mine is the most secure public limiter due to the amo
 
 > [!NOTE]
 > If you want to support me you can contact me on Discord to give verbal or financial support <3
+> I also want to give a special thanks to @.Unforgotten.
