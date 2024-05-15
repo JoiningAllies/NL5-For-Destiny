@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Reasons+for+this+release)](https://git.io/typing-svg)
+<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Reasons+for+this+release)](https://git.io/typing-svg)</p>
 
 I mainly have this publicly released due to the ban wave that hit countless limiters on `4/17/24` over different overlays and other limiter patches.
 
