@@ -30,7 +30,7 @@ As of the moment **5/14/24** mine is the most secure public limiter due to the a
 * When creating a filter the editor now says "*Application is - Destiny 2*" followed by "*Remote Port In Range*" to make it more obvious for new **api** gamers
 
 <p align="center">
-  <img width="460" height="500" src="https://i.ibb.co/bmnDY50/image-2024-05-12-212731066-2.png">
+  <img width="460" height="480" src="https://i.ibb.co/bmnDY50/image-2024-05-12-212731066-2.png">
 </p>
 
 * Removed the word *List* from rule list, filter list, etc.
