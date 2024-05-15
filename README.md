@@ -52,4 +52,4 @@ As of the moment `5/12/24` mine is the most secure public limiter due to the amo
 
 ## I also want to give a special thanks to **@.Unforgotten.** for helping me with the auto installer <3
 
-![](https://komarev.com/ghpvc/?username=JoiningAllies)
+![](https://komarev.com/ghpvc/?username=JoiningAllies&style=for-the-badge)
