@@ -52,4 +52,4 @@ As of the moment **5/14/24** mine is the most secure public limiter due to the a
 
 ## <p align="center"> I also want to give a special thanks to **@.Unforgotten.** for helping me with the auto installer <3 </p>
 
-<p align="center">![](https://komarev.com/ghpvc/?username=JoiningAllies&style=for-the-badge)</p>
+![](https://komarev.com/ghpvc/?username=JoiningAllies&style=for-the-badge)
