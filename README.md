@@ -19,7 +19,7 @@ As of the moment **5/14/24** mine is the most secure public limiter due to the a
 * Reopen **CMD** as *admin* and type in **net start nlsvc*
 * Open **Rikka.exe**
 
-# Visual Changes
+# <p align="center"> Visual Changes </p>
 
 * Active/Disabled limit is now **RTA/API**
 
@@ -33,14 +33,14 @@ As of the moment **5/14/24** mine is the most secure public limiter due to the a
 * Removed the word *List* from rule list, filter list, etc.
 * Made a special change in the **theme** tab that you will have to discover on your own
 
-# Security Changes
+# <p align="center"> Security Changes </p>
 
 * Changed **697** Instaces of "*Netlimiter*", "*Locktime Software*", "*nlsvc*", "*NL4*", and "*NL5*" (Please keep in mind there are still insatces of these phrases in the program that if I was to change them then it will breka the raw program but I am constantly working on things)
 * Removed **78** bloat files that slow down the program
 * Changes assembly to no longer include *"Netlimiter"* and names associated with it
 * Changed all languages to no longer have the word *"Netlimiter"*
 
-# Quality Of Life
+# <p align="center"> Quality Of Life </p>
 
 - [ ] Hotkey Overlay
 - [x] No key modifiers needed
@@ -50,6 +50,6 @@ As of the moment **5/14/24** mine is the most secure public limiter due to the a
 > [!NOTE]
 > If you want to support me you can contact me on Discord to give verbal or financial support <3
 
-## I also want to give a special thanks to **@.Unforgotten.** for helping me with the auto installer <3
+## <p align="center"> I also want to give a special thanks to **@.Unforgotten.** for helping me with the auto installer <3 </p>
 
 ![](https://komarev.com/ghpvc/?username=JoiningAllies&style=for-the-badge)
