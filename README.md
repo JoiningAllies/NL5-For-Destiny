@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Reasons+for+this+release)](https://git.io/typing-svg)
 
-<p align="center">I mainly have this publicly released due to the ban wave that hit countless limiters on `4/17/24` over different overlays and other limiter patches.
+<p align="center">I mainly have this publicly released due to the ban wave that hit countless limiters on **4/17/24** over different overlays and other limiter patches.
 
-As of the moment `5/12/24` mine is the most secure public limiter due to the amount of strings, values, assembly, and more that has all been changed. The most popular up till this point has been Bosslawls and Joyeuses which don't have but a few dozen changed strings.</p>
+As of the moment **5/14/24** mine is the most secure public limiter due to the amount of strings, values, assembly, and more that has all been changed. The most popular up till this point has been Bosslawls and Joyeuses which don't have but a few dozen changed strings.</p>
 
 > [!CAUTION]
 > It is recommended you make your **own** patch. But this patch is still the safest public limiter with 0 bans
