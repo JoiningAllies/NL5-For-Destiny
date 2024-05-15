@@ -7,7 +7,7 @@ As of the moment **5/14/24** mine is the most secure public limiter due to the a
 > [!CAUTION]
 > It is recommended you make your **own** patch. But this patch is still the safest public limiter with 0 bans
 
-# [Virus Total](https://www.virustotal.com/gui/file/79125cfd0e3bd4e5880dc16cfd144edd7c0215eb3b98563edcb7eff4400f2acf?nocache=1)
+# <p align="center"> [Virus Total](https://www.virustotal.com/gui/file/79125cfd0e3bd4e5880dc16cfd144edd7c0215eb3b98563edcb7eff4400f2acf?nocache=1) </p>
 
 # <p align="center">**How To Setup Rikka.exe**</p>
 
