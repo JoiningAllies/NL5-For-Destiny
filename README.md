@@ -1,4 +1,4 @@
-<p align="center"># Reasoning For This Release</p>
+# <p align="center">**Reasoning For This Release**</p>
 
 I mainly have this publicly released due to the ban wave that hit countless limiters on **4/17/24** over different overlays and other limiter patches.
 
