@@ -44,7 +44,7 @@ As of the moment **5/14/24** mine is the most secure public limiter due to the a
 
 - [ ] Hotkey Overlay
 - [x] No key modifiers needed
-- [ ] Setup Auto Installer
+- [x] Setup Auto Installer
 - [ ] Setup Auto Updater
 
 > [!NOTE]
