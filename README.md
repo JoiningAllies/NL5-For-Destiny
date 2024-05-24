@@ -19,6 +19,8 @@ As of the moment **5/14/24** mine is the most secure public limiter due to the a
 * Reopen **CMD** as *admin* and type in **net start nlsvc*
 * Open **Rikka.exe**
 
+* Alternatively you can use my [Auto Installer](https://github.com/JoiningAllies/NL5-For-Destiny/releases/tag/1.6.1) that is updated to the latest version
+
 # <p align="center"> Visual Changes </p>
 
 * Active/Disabled limit is now **RTA/API**
